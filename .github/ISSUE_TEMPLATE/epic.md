@@ -1,6 +1,6 @@
 ---
 name: Epic
-about: This template is used to create an Epic 
+about: This template is used to create an Epic
 title: ''
 labels: Epic
 assignees: ''

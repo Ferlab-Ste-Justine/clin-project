@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: This template is used to attach a task/issue to an Epic 
+about: This template is used to attach a task/issue to an Epic
 title: ''
 labels: Story
 assignees: ''
@@ -9,7 +9,7 @@ assignees: ''
 
 ### Feature
 
-Feature description… what does this task achieve (_"as a user I ..."_)
+A clear and concise description of what the business needs are... What does this task achieve (_"as a user I ..."_)?
 
 ### Acceptance Criteria
 
@@ -22,6 +22,20 @@ Feature description… what does this task achieve (_"as a user I ..."_)
 
 _Your feature may include more than one scenario…_
 
-### Resources
+### Sub-Tasks
+_List of what needs to be done  on the technical side._
+- [ ] Sub-task 1
+- [ ] Sub-task 2
+- [ ] Sub-task ...
 
+### Testing Strategy
+_Who can test it? How do we test it? What do we need to test it?_
+
+### Defects
+_List of defects/bugs found during QA._
+- [ ] Defect 1
+- [ ] Defect 2
+- [ ] Defect ...
+
+### Resources
 _Include any links to additional documentation, technical and/or design specs_
