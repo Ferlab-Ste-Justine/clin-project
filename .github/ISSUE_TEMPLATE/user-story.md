@@ -2,7 +2,7 @@
 name: User Story
 about: This template is used to attach a task/issue to an Epic
 title: ''
-labels: Story
+labels: ''
 assignees: ''
 
 ---
